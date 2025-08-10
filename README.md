@@ -73,5 +73,3 @@ Este projeto está licenciado sob a licença MIT — veja o arquivo [LICENSE](LI
 
 ---
 
-Se quiser, posso ajudar a gerar o arquivo LICENSE padrão MIT também. Quer?
-```
